@@ -37,5 +37,5 @@ Este ejercicio muestra cómo **procesar datos desde APIs** utilizando **Apache S
 
 ## 👩‍💻 Autor
 
-- Laura Otálora Ramírez
+- Laura Vanessa Otálora Ramírez
 - Contacto: lauraotalora48@gmail.com
